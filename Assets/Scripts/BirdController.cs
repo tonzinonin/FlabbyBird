@@ -9,7 +9,7 @@ public class BirdController : MonoBehaviour
     private Rigidbody2D rb2d;
     private bool isDead = false;
     private Animator anim;
-    
+    //Github test
 
     void Start()
     {
